@@ -2,10 +2,8 @@
 <p align="center">💖 Android Developer • AI-Integrated Apps • Data-Driven Thinker 💖</p>
 
 <p align="center">
-  <img src="https://media.tenor.com/YEWnfYqKq9YAAAAC/cute-cat.gif" width="200" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2luNXRuNHBzendkNTR2eWl3bDN3aDFjNDY4c2lvamxvbjlrY3RsbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oriO0OEd9QIDdllqo/giphy.gif" width="180">
 </p>
-
----
 
 ## 🎀 About Me  
 - 💗 Final-year CSE student at VIT Bhopal (CGPA: 8.84)  
