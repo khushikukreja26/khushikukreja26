@@ -20,6 +20,7 @@
 </p>
 
 ---
+[![GitHub Streak](https://streak-stats.demolab.com/?user=khushikukreja26)](https://git.io/streak-stats)
 
 ## 🎀 Featured Projects  
 
