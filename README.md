@@ -1,4 +1,4 @@
-<h1 align="center">🌸✨ Hey, Khushi Kukreja this side ✨🌸</h1>
+<h1 align="center">🌸✨ Hey, I am Khushi Kukreja ✨🌸</h1>
 <p align="center"> Android Developer • AI-Integrated Apps • Data-Driven Thinker </p>
 
 <p align="center">
