@@ -17,7 +17,6 @@
   📊 Data
 </p>
 
-### 📊 Activity
 
 <p align="center">
   <img
