@@ -1,4 +1,4 @@
-<h2 align="center">hey, I'm Khushi Kukreja 🌷</h2>
+<h2 align="center">hello, I'm Khushi Kukreja 🌷</h2>
 <p align="center">
   Android Developer · Kotlin · Jetpack Compose · AI Apps
 </p>
